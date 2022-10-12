@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent"
+    tools:context=".fragments.MicFragment">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/t2"
+        app:navigationIcon="@drawable/ic_leaf"
+        app:title="Your Recordings"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_below="@+id/t2"
+        android:layoutAnimation="@anim/layout_animation_fall_down"
+        android:background="@color/white"
+        android:id="@+id/er"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab2"
+        android:background="@color/green"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/green"
+        app:borderWidth="0dp"
+        android:src="@drawable/ic_mic_1"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</RelativeLayout>

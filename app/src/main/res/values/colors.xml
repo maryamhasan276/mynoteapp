@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#008D3A</color>
+    <color name="colorAccent">#0BE415</color>
+
+    <color name="white">#ffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0091EA</color>
+    <color name="pink">#AA00FF</color>
+    <color name="green">#008D3A</color>
+    <color name="yellow">#FFB700</color>
+    <color name="brown">#E64A19</color>
+    <color name="grey">#bfbfbf</color>
+
+    <color name="colorAccentDark">#A01546</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhite5">#2cffffff</color>
+    <color name="colorWhite2">#f5f5f5</color>
+    <color name="colorWhite3">#f5f5f5</color>
+    <color name="colorWhite4">#b5ffffff</color>
+    <color name="colorWhite6">#70ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlack2">#3f000000</color>
+    <color name="colorBlack3">#22000000</color>
+    <color name="colorBlack4">#85dadada</color>
+    <color name="colorBlackNew">#565656</color>
+    <color name="colorPrimaryDark2">#00574B</color>
+
+    <color name="colorSnackBarButton">#FF03A9F4</color>
+    <color name="colorSelectedPriceButton">#FF03A9F4</color>
+    <color name="colorIcons">#898989</color>
+    <color name="colorStroke">#cfcfcf</color>
+    <color name="colorStroke2">#dadada</color>
+    <color name="colorStrokeDark">#acacac</color>
+    <color name="colorInsideStroke">#767474</color>
+    <color name="colorCartBadge">#ff6666</color>
+    <color name="colorCartBadge2">#e65858</color>
+    <color name="colorReciverCard">#f1f0f0</color>
+    <color name="colorChatThreadLine">#abdedede</color>
+
+    <color name="orderBlack">#000000</color>
+    <color name="orderRed">#f25656</color>
+    <color name="orderBlue">#FF03A9F4</color>
+    <color name="orderGreen">#63b846</color>
+    <color name="colorYellow">#FFF200</color>
+    <color name="colorYellow2">#f2e600</color>
+
+
+    <color name="colorIphoneBackground">#f1f1f1</color>
+    <color name="colorIphoneBackgroundDark">#f2f2f2</color>
+    <color name="colorLineView">#eeeeee</color>
+    <color name="generalBgColor">#F3F3F3</color>
+
+</resources>
